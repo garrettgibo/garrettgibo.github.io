@@ -5,6 +5,10 @@ verify_ssl = true
 
 [dev-packages]
 black = "*"
+pytest = "*"
+pytest-cov = "*"
+codecov = "*"
+flake8 = "*"
 
 [packages]
 jinja2 = "*"
@@ -17,5 +21,7 @@ allow_prereleases = true
 
 [scripts]
 format = "black ."
+checks = "flake8 --ignore=E203,E501,W503"
+tests = "pytest --cov=./"
 render = "python render.py"
 view = "python -m http.server --directory public"
