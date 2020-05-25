@@ -7,7 +7,7 @@ install:
   - pipenv sync --dev
 script:
   - black --check **/*.py
-  - pipenv run checks
+  - pipenv run lint
   - pipenv run tests
   - pipenv run render
   - cd $TRAVIS_BUILD_DIR
