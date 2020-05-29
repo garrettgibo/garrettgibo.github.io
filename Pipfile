@@ -2,7 +2,6 @@
 name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-# TODO remove pytest-cov and codecov
 
 [dev-packages]
 black = "*"
@@ -21,7 +20,6 @@ allow_prereleases = true
 [scripts]
 format = "black ."
 lint = "flake8 --ignore=E203,E501,W503"
-# remove coverage for default tests
 tests = "pytest tests"
 render = "python render.py"
 view = "python -m http.server --directory public"
