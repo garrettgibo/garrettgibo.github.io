@@ -1,19 +1,4 @@
 # Project Specific
 public
 
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Unit test / coverage reports
-.coverage
-.coverage.*
-.cache
-
-# Sphinx documentation
-docs/_build/
-
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
-__pypackages__/
-
+node_modules/
