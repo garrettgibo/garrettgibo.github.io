@@ -4,16 +4,3 @@
 [![codecov](https://codecov.io/gh/garrettgibo/garrettgibo.github.io/branch/master/graph/badge.svg?token=173J4ZRFXW)](https://codecov.io/gh/garrettgibo/garrettgibo.github.io)
 
 My personal website with a little about me and what I've done.
-
-## Development
-
-### Prerequisites
-
-- pipenv
-
-
-```Shell
-pipenv install
-pipenv run render
-pipenv run view
-```
