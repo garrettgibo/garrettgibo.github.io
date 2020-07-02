@@ -15,7 +15,9 @@ function App() {
 
       I do some work here and there, so check out what I do
       <div>
-        <a href="https://github.com/garrettgibo" target="_blank">
+        <a href="https://github.com/garrettgibo"
+           target="_blank"
+           rel="noopener noreferrer">
           <img src={githubLogo} alt="Github" />
         </a>
       </div>
