@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.666b0a5c.chunk.css",
+    "main.js": "/static/js/main.210adfe3.chunk.js",
+    "main.js.map": "/static/js/main.210adfe3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fafc0f5c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fafc0f5c.js.map",
+    "static/js/2.c9e9a509.chunk.js": "/static/js/2.c9e9a509.chunk.js",
+    "static/js/2.c9e9a509.chunk.js.map": "/static/js/2.c9e9a509.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7e70605e274f71941eb36264d12f836b.js": "/precache-manifest.7e70605e274f71941eb36264d12f836b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.666b0a5c.chunk.css.map": "/static/css/main.666b0a5c.chunk.css.map",
+    "static/js/2.c9e9a509.chunk.js.LICENSE.txt": "/static/js/2.c9e9a509.chunk.js.LICENSE.txt",
+    "static/media/kuma_mimi.e5945369.jpg": "/static/media/kuma_mimi.e5945369.jpg",
+    "static/media/toppng.com-github-logo-png-2000x665.57db8f70.png": "/static/media/toppng.com-github-logo-png-2000x665.57db8f70.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fafc0f5c.js",
+    "static/js/2.c9e9a509.chunk.js",
+    "static/css/main.666b0a5c.chunk.css",
+    "static/js/main.210adfe3.chunk.js"
+  ]
+}
