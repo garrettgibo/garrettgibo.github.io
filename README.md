@@ -4,11 +4,10 @@
 [![Build](https://github.com/garrettgibo/garrettgibo.github.io/workflows/Build/badge.svg)](https://github.com/garrettgibo/garrettgibo.github.io/actions?query=workflow%3ABuild)
 [![Deploy](https://github.com/garrettgibo/garrettgibo.github.io/workflows/Deploy/badge.svg)](https://github.com/garrettgibo/garrettgibo.github.io/actions?query=workflow%3ADeploy)
 
-My personal website with a little about me and what I've done. Some features of
-my site are:
+My personal website that will one day be amazing.
+
+Some special features:
 
 - it is unnecessarily built with react
-- if you look through its history it has gone through complete overhauls many
-  times, but it still only looks like this
-- it is very possible that things are slightly inaccurate (in terms of the
-  build not the content)
+- if you look through its history it has gone through complete
+  overhauls many times, but it still only looks like this
