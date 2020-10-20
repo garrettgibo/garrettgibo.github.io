@@ -7,10 +7,19 @@
   width: 100%;
   background-color: #fafafa;
   position: fixed;
-  font-family: 'Montserrat'
+  font-family:
+    'Montserrat',
+    'Roboto',
+    'Oxygen',
+    'Ubuntu',
+    'Cantarell',
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
 }
 
 .child {
-   margin: auto;
+  margin: auto;
   padding: auto;
 }
