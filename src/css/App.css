@@ -1,7 +1,25 @@
-.h-center {
+.parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   text-align: center;
+  height: 100%;
+  width: 100%;
+  background-color: #fafafa;
+  position: fixed;
+  font-family:
+    'Montserrat',
+    'Roboto',
+    'Oxygen',
+    'Ubuntu',
+    'Cantarell',
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
 }
 
-.logo {
-  height: 100px;
+.child {
+  margin: auto;
+  padding: auto;
 }
