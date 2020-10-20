@@ -1,18 +1,17 @@
 .icon-spacing {
-    width: 100%;
-    height: auto;
-    text-align: center;
+  width: 100%;
+  height: auto;
+  text-align: center;
 }
 
 .icon-spacing > * {
-    margin: 10px;
+  margin: 10px;
 }
 
-
 .icon {
-    color: #000;
+  color: #000;
 }
 
 .icon:hover {
-    color: #989898;
+  color: #989898;
 }

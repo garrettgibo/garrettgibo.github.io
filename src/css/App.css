@@ -1,17 +1,16 @@
 .parent {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    height: 100%;
-    width: 100%;
-    background-color: #fafafa;
-    position: fixed;
-    font-family: 'Montserrat'
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  background-color: #fafafa;
+  position: fixed;
+  font-family: 'Montserrat'
 }
 
-
 .child {
-    margin: auto;
-    padding: auto;
+   margin: auto;
+  padding: auto;
 }
