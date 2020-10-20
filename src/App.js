@@ -1,13 +1,15 @@
 import React from 'react'
 
-import Header from './components/Header'
-import Footer from './components/Footer'
+import IconRow from './components/IconRow'
+import './css/App.css'
 
 export default function App () {
   return (
-    <div>
-      <Header />
-      <Footer />
+    <div className='parent'>
+	<div className='child'>
+	    <h1>Hi I'm Garrett</h1>
+	    <IconRow />
+	</div>
     </div>
   )
 }
