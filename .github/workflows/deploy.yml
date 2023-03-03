@@ -1,11 +1,12 @@
+---
 name: Deploy
 
 on:
   push:
-    branches: [ deploy ]
+    branches: [deploy]
 
 jobs:
-  Build:
+  Deploy:
 
     runs-on: ubuntu-latest
     steps:
@@ -24,7 +25,7 @@ jobs:
       - name: Build production bundle
         uses: borales/actions-yarn@v4
         with:
-          cmd: build # will run `yarn build:prod` command
+          cmd: build # will run `yarn build` command
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
